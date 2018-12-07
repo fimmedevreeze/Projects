@@ -11,6 +11,8 @@ body{
 	background-color: white;
 	overflow: hidden;
 	width:800px;
+	font-family:monospace;
+
 }
 
 .main-nav{
